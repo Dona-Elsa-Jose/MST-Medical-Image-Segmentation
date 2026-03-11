@@ -64,4 +64,4 @@ The following metrics were captured using a scale parameter of $k=500$.
 ---
 
 ## 👤 Author
-**Dona Elsa Jose** | [GitHub Profile](https://github.com/Dona-Elsa-Jose)
+**Dona Elsa Jose**  
